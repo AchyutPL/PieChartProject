@@ -1,0 +1,26 @@
+/** @format */
+
+.App {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+.colorBox {
+  height: 20px;
+  width: 20px;
+  margin: 3px;
+}
+.organizationInfo {
+  display: grid;
+  grid-template-columns: repeat(4, 320px);
+  justify-content: center;
+}
+@media all and (max-width: 700px) {
+  .App {
+    width: 180%;
+    justify-content: center;
+  }
+  .organizationInfo {
+    grid-template-columns: repeat(2, 320px);
+  }
+}

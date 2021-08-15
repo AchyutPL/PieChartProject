@@ -1,0 +1,3290 @@
+{
+  "count": 63,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "pid": 3,
+      "oid": 2,
+      "ptitle": "Comprehensive Disaster Risk Management Programme_Urban DRR_Reducing disaster risks and enhancing emergency response capacities in multihazard-risk prone urban areas of Nepal",
+      "pdurfrom": "2019-06-01",
+      "pdurto": "2021-02-28",
+      "approverOrgId": null,
+      "createdon": "2019-12-20 14:37:46",
+      "createdby": 6,
+      "validation_status": 1,
+      "imported": 0,
+      "source": null,
+      "budget_local": 134300390,
+      "budget_usd": 1343004,
+      "location": {
+        "province": [3, 3, 3, 3],
+        "district": [27],
+        "municipality": [],
+        "ward": []
+      },
+      "donor": [],
+      "partner": [],
+      "output": [
+        {
+          "outputid": 2,
+          "pid": 3,
+          "output_description": "Enhanced understanding of disaster risk at community and municipal level",
+          "odurfrom": "2019-06-01",
+          "odurto": "2021-02-28",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [1]
+        }
+      ]
+    },
+    {
+      "pid": 4,
+      "oid": 6,
+      "ptitle": "Strengthening Emergency Preparedness in Nepal: Building capacity on Sexual and Reproductive Health and Gender Based Violence prevention ",
+      "pdurfrom": "2018-05-15",
+      "pdurto": "2023-12-31",
+      "approverOrgId": null,
+      "createdon": "2020-01-16 17:00:30",
+      "createdby": 11,
+      "validation_status": 0,
+      "imported": 0,
+      "source": null,
+      "budget_local": 177372000,
+      "budget_usd": 1560000,
+      "location": {
+        "province": [],
+        "district": [],
+        "municipality": [],
+        "ward": []
+      },
+      "donor": [2],
+      "partner": [],
+      "output": [
+        {
+          "outputid": 3,
+          "pid": 4,
+          "output_description": "Government at national and sub-national level has strengthened capacity to respond to Sexual and Reproductive Health (SRH) and Gender Based Violence (GBV) prevention needs in emergencies.",
+          "odurfrom": "2018-05-15",
+          "odurto": "2023-12-31",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [1, 121]
+        },
+        {
+          "outputid": 4,
+          "pid": 4,
+          "output_description": "Government with adequate supplies to address the critical needs of women and girls of reproductive age during emergencies.",
+          "odurfrom": "2018-05-15",
+          "odurto": "2023-12-31",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [121]
+        }
+      ]
+    },
+    {
+      "pid": 8,
+      "oid": 2,
+      "ptitle": "Fast Tracking Millennium Development Goals and Safeguarding Development Gains",
+      "pdurfrom": "2014-05-01",
+      "pdurto": "2016-09-30",
+      "approverOrgId": null,
+      "createdon": "2020-08-12 12:28:33",
+      "createdby": 13,
+      "validation_status": 0,
+      "imported": 0,
+      "source": null,
+      "budget_local": 0,
+      "budget_usd": 2000000,
+      "location": {
+        "province": [],
+        "district": [],
+        "municipality": [],
+        "ward": []
+      },
+      "donor": [14],
+      "partner": [],
+      "output": []
+    },
+    {
+      "pid": 9,
+      "oid": 2,
+      "ptitle": "Developing Climate Resilient Livelihoods in the Vulnerable Watershed in Nepal",
+      "pdurfrom": "2020-06-01",
+      "pdurto": "2024-05-31",
+      "approverOrgId": 1,
+      "createdon": "2020-08-12 12:30:29",
+      "createdby": 13,
+      "validation_status": 0,
+      "imported": 0,
+      "source": null,
+      "budget_local": 0,
+      "budget_usd": 42793000,
+      "location": {
+        "province": [],
+        "district": [],
+        "municipality": [11002],
+        "ward": []
+      },
+      "donor": [2, 15, 16],
+      "partner": [],
+      "output": [
+        {
+          "outputid": 9,
+          "pid": 9,
+          "output_description": "Integrated watershed management framework has been established to address climate change induced floods and droughts",
+          "odurfrom": "2020-06-01",
+          "odurto": "2024-05-31",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": []
+        },
+        {
+          "outputid": 10,
+          "pid": 9,
+          "output_description": "Integrated watershed management practices introduced and scaled up in 1 watershed covering 840 km2 of watershed areas and benefiting 113,486 vulnerable people.",
+          "odurfrom": "2020-06-01",
+          "odurto": "2024-05-31",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": []
+        }
+      ]
+    },
+    {
+      "pid": 10,
+      "oid": 2,
+      "ptitle": "Community Based Flood and Glacial Lake Outburst Risk Reduction Project",
+      "pdurfrom": "2013-07-15",
+      "pdurto": "2017-10-31",
+      "approverOrgId": null,
+      "createdon": "2020-08-12 12:31:46",
+      "createdby": 13,
+      "validation_status": 0,
+      "imported": 0,
+      "source": null,
+      "budget_local": 0,
+      "budget_usd": 7568483,
+      "location": {
+        "province": [],
+        "district": [],
+        "municipality": [],
+        "ward": []
+      },
+      "donor": [2, 15, 16],
+      "partner": [],
+      "output": []
+    },
+    {
+      "pid": 11,
+      "oid": 2,
+      "ptitle": "Support to Implementation of National Building Code and Safer Building Construction in 3 Earthquake affected Municipalities",
+      "pdurfrom": "2016-01-01",
+      "pdurto": "2017-01-31",
+      "approverOrgId": null,
+      "createdon": "2020-08-12 12:33:20",
+      "createdby": 13,
+      "validation_status": 0,
+      "imported": 0,
+      "source": null,
+      "budget_local": 0,
+      "budget_usd": 23604,
+      "location": {
+        "province": [],
+        "district": [],
+        "municipality": [],
+        "ward": []
+      },
+      "donor": [17],
+      "partner": [],
+      "output": []
+    },
+    {
+      "pid": 12,
+      "oid": 2,
+      "ptitle": "Socio-technical facilitation services to Government of India supported Housing Reconstruction in Gorkha District, Nepal",
+      "pdurfrom": "2018-03-08",
+      "pdurto": "2021-02-28",
+      "approverOrgId": null,
+      "createdon": "2020-08-12 12:34:35",
+      "createdby": 13,
+      "validation_status": 0,
+      "imported": 0,
+      "source": null,
+      "budget_local": 0,
+      "budget_usd": 1819800,
+      "location": {
+        "province": [],
+        "district": [],
+        "municipality": [],
+        "ward": []
+      },
+      "donor": [18],
+      "partner": [],
+      "output": []
+    },
+    {
+      "pid": 13,
+      "oid": 2,
+      "ptitle": "Resilient Communities through building back better in districts most severely affected by 2015 Earthquake",
+      "pdurfrom": "2016-05-01",
+      "pdurto": "2017-12-31",
+      "approverOrgId": null,
+      "createdon": "2020-12-17 11:07:25",
+      "createdby": 13,
+      "validation_status": 0,
+      "imported": 0,
+      "source": null,
+      "budget_local": 0,
+      "budget_usd": 317853,
+      "location": {
+        "province": [],
+        "district": [],
+        "municipality": [],
+        "ward": []
+      },
+      "donor": [19],
+      "partner": [],
+      "output": []
+    },
+    {
+      "pid": 14,
+      "oid": 2,
+      "ptitle": "Resilient Reconstruction Through Building Back Better focused on most poor and vulnerable Communities in districts severely affected by 2015 Earthquake",
+      "pdurfrom": "2018-01-01",
+      "pdurto": "2020-05-31",
+      "approverOrgId": null,
+      "createdon": "2020-12-17 11:11:23",
+      "createdby": 13,
+      "validation_status": 0,
+      "imported": 0,
+      "source": null,
+      "budget_local": 0,
+      "budget_usd": 577963,
+      "location": {
+        "province": [],
+        "district": [],
+        "municipality": [],
+        "ward": []
+      },
+      "donor": [19],
+      "partner": [],
+      "output": []
+    },
+    {
+      "pid": 15,
+      "oid": 36,
+      "ptitle": "Prepared for Emergency Response Program",
+      "pdurfrom": "2019-04-01",
+      "pdurto": "2021-05-30",
+      "approverOrgId": 34,
+      "createdon": "2021-01-26 21:45:14",
+      "createdby": 16,
+      "validation_status": 0,
+      "imported": 0,
+      "source": null,
+      "budget_local": 61154000,
+      "budget_usd": 524582,
+      "location": {
+        "province": [],
+        "district": [16, 37],
+        "municipality": [
+          56001, 56004, 57002, 57004, 58003, 58004, 59003, 59007, 71002, 71013
+        ],
+        "ward": []
+      },
+      "donor": [19, 45],
+      "partner": [],
+      "output": [
+        {
+          "outputid": 11,
+          "pid": 15,
+          "output_description": "Preparedness and Response Capacity: IRA and ACT mechanism embedded with the government mechanism, Information Management System – agreed and rolled out (gov & NRCS), Functional coordination mechanism established between all levels of government )",
+          "odurfrom": "2021-07-01",
+          "odurto": "2021-05-31",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [122]
+        }
+      ]
+    },
+    {
+      "pid": 16,
+      "oid": 36,
+      "ptitle": "Forecast based Action and Shock Responsive Social Protection in province 5 and Sudhur Paschim (FbA-SRSP)",
+      "pdurfrom": "2020-06-01",
+      "pdurto": "2022-05-31",
+      "approverOrgId": 34,
+      "createdon": "2021-01-26 22:06:44",
+      "createdby": 16,
+      "validation_status": 0,
+      "imported": 0,
+      "source": null,
+      "budget_local": 54269000,
+      "budget_usd": 465522,
+      "location": {
+        "province": [],
+        "district": [],
+        "municipality": [],
+        "ward": []
+      },
+      "donor": [9, 46],
+      "partner": [],
+      "output": [
+        {
+          "outputid": 12,
+          "pid": 16,
+          "output_description": "A multi-hazard FbA mechanism is jointly developed and tested at the local level, with a scalability capacity approach, Replicable options for the SSA-system, to be used as a shock-response mechanism enabling its continuous delivery in the face of disasters, and in anticipation, are developed and tested in 5 municipalities, Consolidated learnings and evidence collected at the local level contribute to the formulation of the national roadmap on SRSP in Nepal",
+          "odurfrom": "2021-01-01",
+          "odurto": "2022-03-31",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [71]
+        },
+        {
+          "outputid": 13,
+          "pid": 16,
+          "output_description": "A multi-hazard FbA mechanism is jointly developed and tested at the local level, with a scalability capacity approach, Replicable options for the SSA-system, to be used as a shock-response mechanism enabling its continuous delivery in the face of disasters, and in anticipation, are developed and tested in 5 municipalities, Consolidated learnings and evidence collected at the local level contribute to the formulation of the national roadmap on SRSP in Nepal",
+          "odurfrom": "2021-01-01",
+          "odurto": "2022-03-31",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [71]
+        },
+        {
+          "outputid": 14,
+          "pid": 16,
+          "output_description": "A multi-hazard FbA mechanism is jointly developed and tested at the local level, with a scalability capacity approach, Replicable options for the SSA-system, to be used as a shock-response mechanism enabling its continuous delivery in the face of disasters, and in anticipation, are developed and tested in 5 municipalities, Consolidated learnings and evidence collected at the local level contribute to the formulation of the national roadmap on SRSP in Nepal",
+          "odurfrom": "2021-01-01",
+          "odurto": "2022-03-31",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [71]
+        }
+      ]
+    },
+    {
+      "pid": 17,
+      "oid": 42,
+      "ptitle": "Disaster Risk Reduction Project",
+      "pdurfrom": "2019-01-01",
+      "pdurto": "2019-12-31",
+      "approverOrgId": 38,
+      "createdon": "2021-01-27 14:13:23",
+      "createdby": 17,
+      "validation_status": 0,
+      "imported": 0,
+      "source": null,
+      "budget_local": 95862,
+      "budget_usd": 931,
+      "location": {
+        "province": [5, 4, 7, 5, 7, 7, 7, 7, 7],
+        "district": [
+          65, 44, 59, 44, 28, 44, 46, 49, 67, 68, 72, 72, 27, 28, 44, 46, 51,
+          58, 65, 67, 68, 65, 44, 46, 49, 51, 58, 59, 65, 67, 68, 70, 70, 70,
+          70, 70, 70
+        ],
+        "municipality": [
+          25002, 43003, 44003, 44005, 44007, 58004, 58006, 58007, 65001, 65002,
+          66005, 66006, 70004, 70007, 71001, 71008, 71011, 71013, 75005, 75006,
+          58004, 25002, 40003, 65001, 66006, 67004, 75006, 25002, 36001, 40002,
+          43003, 44005, 58004, 65001, 66006, 67004, 70007, 71011, 75006, 67004,
+          36001, 44007, 58004, 67002, 71001, 75006, 67002, 40001, 40002, 43003,
+          67002, 67004, 70004, 70007, 71001, 67002, 36001, 40002, 43003, 44005,
+          58004, 65001, 67002, 70007, 71001, 75006, 67002
+        ],
+        "ward": []
+      },
+      "donor": [48],
+      "partner": [
+        70, 73, 75, 77, 78, 79, 81, 66, 72, 79, 84, 85, 67, 85, 67, 70, 72, 75,
+        78, 79, 81, 67, 70, 72, 73, 77, 78, 81, 85, 67, 72, 73, 75, 77, 78, 81,
+        84, 67, 70, 72, 73, 77, 78, 79, 81, 84, 85, 67, 72, 73, 77, 78, 79, 84,
+        72, 75, 78, 81, 84, 67, 72, 73, 75, 77, 78, 79, 81, 84, 85
+      ],
+      "output": [
+        {
+          "outputid": 20,
+          "pid": 17,
+          "output_description": "Local level DRR plan preparation,Mitigation works,teachers training on DRR,emergency response,DRR education,simulation and mock drill in school",
+          "odurfrom": "2019-01-01",
+          "odurto": "2019-12-31",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [61]
+        }
+      ]
+    },
+    {
+      "pid": 18,
+      "oid": 42,
+      "ptitle": "Disaster Risk Reduction Project",
+      "pdurfrom": "2020-01-01",
+      "pdurto": "2020-12-31",
+      "approverOrgId": 38,
+      "createdon": "2021-01-27 14:25:31",
+      "createdby": 17,
+      "validation_status": 0,
+      "imported": 0,
+      "source": null,
+      "budget_local": 53300,
+      "budget_usd": 517,
+      "location": {
+        "province": [4],
+        "district": [44],
+        "municipality": [36007, 43003, 67001, 67005, 75005, 75006],
+        "ward": []
+      },
+      "donor": [47],
+      "partner": [67, 75, 79, 84],
+      "output": [
+        {
+          "outputid": 16,
+          "pid": 18,
+          "output_description": "Emergency Response Support to the landslide and flood affected HHs and Population.",
+          "odurfrom": "2020-01-01",
+          "odurto": "2020-12-31",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [213]
+        }
+      ]
+    },
+    {
+      "pid": 19,
+      "oid": 42,
+      "ptitle": "Comprehensive School Safety & emergency response",
+      "pdurfrom": "2021-01-01",
+      "pdurto": "2021-12-31",
+      "approverOrgId": 38,
+      "createdon": "2021-01-27 15:45:26",
+      "createdby": 17,
+      "validation_status": 0,
+      "imported": 0,
+      "source": null,
+      "budget_local": 3436330,
+      "budget_usd": 34363,
+      "location": {
+        "province": [3],
+        "district": [28, 58, 59],
+        "municipality": [
+          25002, 25003, 27010, 27011, 36001, 36005, 36007, 40001, 40002, 40003,
+          40004, 43003, 44003, 44005, 44007, 58004, 58006, 58007, 67002, 67004,
+          70004, 70007, 71001, 71008, 71011, 71013, 75005, 75006
+        ],
+        "ward": []
+      },
+      "donor": [47],
+      "partner": [
+        70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85
+      ],
+      "output": [
+        {
+          "outputid": 15,
+          "pid": 19,
+          "output_description": "Capacity building Training,Contingency fund for Emergency Response,Participatory Hazard & Vulnerability & Capacity Assessment, DRR/M plan preparation of school,community & Local Govt,DRR toolkit support to school,Awareness on DRR/COVID19",
+          "odurfrom": "2021-01-01",
+          "odurto": "2021-12-31",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [61]
+        }
+      ]
+    },
+    {
+      "pid": 20,
+      "oid": 60,
+      "ptitle": "Increased locally led actions to prepare for, respond to,  and recover from disasters in Asia - Nepal",
+      "pdurfrom": "2020-10-01",
+      "pdurto": "2022-08-30",
+      "approverOrgId": 1,
+      "createdon": "2021-02-01 12:37:40",
+      "createdby": 31,
+      "validation_status": 0,
+      "imported": 0,
+      "source": null,
+      "budget_local": 17100000,
+      "budget_usd": 149000,
+      "location": {
+        "province": [],
+        "district": [],
+        "municipality": [],
+        "ward": []
+      },
+      "donor": [61],
+      "partner": [],
+      "output": [
+        {
+          "outputid": 88,
+          "pid": 20,
+          "output_description": "Humanitarian Standards Institutionalized among Local Actors",
+          "odurfrom": "2020-10-01",
+          "odurto": "2022-08-30",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [200]
+        }
+      ]
+    },
+    {
+      "pid": 21,
+      "oid": 95,
+      "ptitle": "Child-centred Disaster Risk Reduction (CCDRR) programme",
+      "pdurfrom": "2020-01-01",
+      "pdurto": "2021-12-31",
+      "approverOrgId": 95,
+      "createdon": "2021-02-04 13:19:32",
+      "createdby": 36,
+      "validation_status": 0,
+      "imported": 0,
+      "source": null,
+      "budget_local": 38007030,
+      "budget_usd": 324849,
+      "location": {
+        "province": [5],
+        "district": [38],
+        "municipality": [50008, 50008, 50008],
+        "ward": []
+      },
+      "donor": [102],
+      "partner": [103, 103],
+      "output": [
+        {
+          "outputid": 18,
+          "pid": 21,
+          "output_description": "Technical support for strengthening Child-centred Disaster Risk Reduction (CCDRR)",
+          "odurfrom": "2021-01-01",
+          "odurto": "2021-12-31",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [122]
+        },
+        {
+          "outputid": 19,
+          "pid": 21,
+          "output_description": "Conduct multi-sectoral (i.e. Education, WASH, Health, Nutrition, Child Protection) and child-centered risk assessment in new municipalities and produce GIS-supported risk maps",
+          "odurfrom": "2021-01-01",
+          "odurto": "2021-12-31",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [6]
+        }
+      ]
+    },
+    {
+      "pid": 22,
+      "oid": 49,
+      "ptitle": "Strengthening Local Governance for Disaster-Resilient Communities (SAKSHAM)",
+      "pdurfrom": "2020-07-20",
+      "pdurto": "2022-07-19",
+      "approverOrgId": null,
+      "createdon": "2021-02-05 18:01:11",
+      "createdby": 24,
+      "validation_status": 0,
+      "imported": 0,
+      "source": null,
+      "budget_local": 86250000,
+      "budget_usd": 750000,
+      "location": {
+        "province": [2],
+        "district": [15],
+        "municipality": [15008, 15009, 15014, 15017, 16008, 16009, 16016],
+        "ward": []
+      },
+      "donor": [113],
+      "partner": [257, 258],
+      "output": [
+        {
+          "outputid": 72,
+          "pid": 22,
+          "output_description": "Localized Disaster Risk Reduction and Management (DRRM) at local level (municipalities, wards and communities) for better preparedness & response capacities",
+          "odurfrom": "2020-07-20",
+          "odurto": "2022-06-19",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [64]
+        }
+      ]
+    },
+    {
+      "pid": 23,
+      "oid": 39,
+      "ptitle": "Forecast based Anticipatory Actions for Floods in Nepal",
+      "pdurfrom": "2015-07-01",
+      "pdurto": "2020-12-31",
+      "approverOrgId": 39,
+      "createdon": "2021-02-09 09:34:07",
+      "createdby": 18,
+      "validation_status": 0,
+      "imported": 0,
+      "source": null,
+      "budget_local": 78347500,
+      "budget_usd": 712250,
+      "location": {
+        "province": [5, 5, 5, 5, 5, 5, 1],
+        "district": [66, 66, 66, 66, 66, 66, 4],
+        "municipality": [
+          57002, 57002, 57002, 57002, 57002, 57002, 4008, 4010, 4015, 57002,
+          57006, 58003, 58005, 57002, 4008, 4010, 4015, 57002, 57006, 58003,
+          58005, 57002, 4008, 4010, 4015, 57002, 57006, 58003, 58005, 57002,
+          57002, 57006, 58003, 58005, 4008, 4010, 4015, 57002, 57006, 58003,
+          58005, 4010, 57006, 58003, 58005
+        ],
+        "ward": []
+      },
+      "donor": [125],
+      "partner": [150, 150, 150, 150, 150, 150, 150, 150, 150],
+      "output": [
+        {
+          "outputid": 93,
+          "pid": 23,
+          "output_description": "Capacity Strengthening of Local Municipalities and communities",
+          "odurfrom": "2021-04-17",
+          "odurto": "2020-12-31",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [122]
+        },
+        {
+          "outputid": 94,
+          "pid": 23,
+          "output_description": "Capacity Strengthening of Local Municipalities and communities",
+          "odurfrom": "2020-01-09",
+          "odurto": "2021-01-09",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [52]
+        },
+        {
+          "outputid": 96,
+          "pid": 23,
+          "output_description": "Cash Based Transfer",
+          "odurfrom": "2020-06-01",
+          "odurto": "2020-09-30",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [138]
+        }
+      ]
+    },
+    {
+      "pid": 24,
+      "oid": 62,
+      "ptitle": "Technical Support For Resilient Community Program (TESREC)",
+      "pdurfrom": "2019-10-01",
+      "pdurto": "2021-10-30",
+      "approverOrgId": 128,
+      "createdon": "2021-02-10 11:17:21",
+      "createdby": 35,
+      "validation_status": 0,
+      "imported": 0,
+      "source": null,
+      "budget_local": 143000000,
+      "budget_usd": 1300000,
+      "location": {
+        "province": [3],
+        "district": [22],
+        "municipality": [22009, 71010],
+        "ward": []
+      },
+      "donor": [113],
+      "partner": [167, 168],
+      "output": [
+        {
+          "outputid": 22,
+          "pid": 24,
+          "output_description": "Enhanced Capacity of Stakeholders towards achieving community resilience",
+          "odurfrom": "2020-10-24",
+          "odurto": "2021-02-24",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [255]
+        },
+        {
+          "outputid": 23,
+          "pid": 24,
+          "output_description": "Enhanced Capacity of Stakeholders towards achieving community resilience",
+          "odurfrom": "2021-01-01",
+          "odurto": "2021-04-30",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [122]
+        }
+      ]
+    },
+    {
+      "pid": 26,
+      "oid": 36,
+      "ptitle": "Urban DRM Project",
+      "pdurfrom": "2017-10-01",
+      "pdurto": "2021-03-10",
+      "approverOrgId": 150,
+      "createdon": "2021-02-24 11:04:51",
+      "createdby": 16,
+      "validation_status": 0,
+      "imported": 0,
+      "source": null,
+      "budget_local": 57734674,
+      "budget_usd": 506444,
+      "location": {
+        "province": [],
+        "district": [],
+        "municipality": [],
+        "ward": []
+      },
+      "donor": [162],
+      "partner": [],
+      "output": []
+    },
+    {
+      "pid": 27,
+      "oid": 51,
+      "ptitle": "Disaster Risk Reduction and Response (DR3)",
+      "pdurfrom": "2021-01-01",
+      "pdurto": "2021-06-30",
+      "approverOrgId": 51,
+      "createdon": "2021-02-24 11:47:03",
+      "createdby": 26,
+      "validation_status": 0,
+      "imported": 0,
+      "source": null,
+      "budget_local": 1162400,
+      "budget_usd": 10000,
+      "location": {
+        "province": [1, 1],
+        "district": [4, 5],
+        "municipality": [
+          4004, 15001, 72004, 4004, 5002, 71004, 5002, 15001, 15015, 4010,
+          15001, 15015, 72001, 72004
+        ],
+        "ward": []
+      },
+      "donor": [51],
+      "partner": [231, 233, 51, 235, 231, 236, 237],
+      "output": [
+        {
+          "outputid": 47,
+          "pid": 27,
+          "output_description": "Local Government will be able to develop, update and implement LDCRP by ensuring safe housing practices. ",
+          "odurfrom": "2021-01-01",
+          "odurto": "2021-07-31",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [122]
+        }
+      ]
+    },
+    {
+      "pid": 28,
+      "oid": 36,
+      "ptitle": "Child Centered Disaster Risk Redcution",
+      "pdurfrom": "2020-03-01",
+      "pdurto": "2021-05-31",
+      "approverOrgId": 150,
+      "createdon": "2021-02-25 11:36:47",
+      "createdby": 16,
+      "validation_status": 0,
+      "imported": 0,
+      "source": null,
+      "budget_local": 29502900,
+      "budget_usd": 259983,
+      "location": {
+        "province": [7],
+        "district": [73],
+        "municipality": [
+          17011, 17013, 17015, 34002, 34006, 34010, 67009, 74001, 74001
+        ],
+        "ward": []
+      },
+      "donor": [95],
+      "partner": [95],
+      "output": [
+        {
+          "outputid": 24,
+          "pid": 28,
+          "output_description": " Output 1: Municipal governments have strengthened systems for disaster risk reduction, Output 2: Children and communities have increased awareness and participation in disaster preparedness and mitigation action, \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+          "odurfrom": "2020-03-01",
+          "odurto": "2021-05-31",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [72]
+        }
+      ]
+    },
+    {
+      "pid": 29,
+      "oid": 36,
+      "ptitle": "Strengthening Urban Resilience and Engagement (SURE) Programme",
+      "pdurfrom": "2016-09-01",
+      "pdurto": "2021-08-31",
+      "approverOrgId": 150,
+      "createdon": "2021-02-25 12:41:05",
+      "createdby": 16,
+      "validation_status": 0,
+      "imported": 0,
+      "source": null,
+      "budget_local": 4564321,
+      "budget_usd": 5678,
+      "location": {
+        "province": [],
+        "district": [],
+        "municipality": [],
+        "ward": []
+      },
+      "donor": [10],
+      "partner": [],
+      "output": [
+        {
+          "outputid": 25,
+          "pid": 29,
+          "output_description": "Community Resilient",
+          "odurfrom": "2016-09-01",
+          "odurto": "2021-08-31",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [67]
+        }
+      ]
+    },
+    {
+      "pid": 30,
+      "oid": 36,
+      "ptitle": "Emergency Preparedness and Response Project ",
+      "pdurfrom": "2021-01-01",
+      "pdurto": "2021-12-31",
+      "approverOrgId": 34,
+      "createdon": "2021-02-25 15:42:43",
+      "createdby": 16,
+      "validation_status": 0,
+      "imported": 0,
+      "source": null,
+      "budget_local": 19751585,
+      "budget_usd": 168817,
+      "location": {
+        "province": [],
+        "district": [],
+        "municipality": [],
+        "ward": []
+      },
+      "donor": [6],
+      "partner": [],
+      "output": []
+    },
+    {
+      "pid": 31,
+      "oid": 132,
+      "ptitle": "PARIWARTAN-PROMOTING ACTION FOR DISASTER RISK GOVERNANCE AND WORKING TO ACHIEVE PREPAREDNESS FOR RISK REDUCTION THROUGH TECHNICAL ASSISTANCE IN NEPAL",
+      "pdurfrom": "2019-08-15",
+      "pdurto": "2022-02-14",
+      "approverOrgId": 172,
+      "createdon": "2021-02-26 10:03:25",
+      "createdby": 48,
+      "validation_status": 0,
+      "imported": 0,
+      "source": null,
+      "budget_local": 266786651,
+      "budget_usd": 2302622,
+      "location": {
+        "province": [],
+        "district": [],
+        "municipality": [],
+        "ward": []
+      },
+      "donor": [113],
+      "partner": [],
+      "output": [
+        {
+          "outputid": 26,
+          "pid": 31,
+          "output_description": "NDRRMA’s system and processes are more accountable, effective and efficient in line with National policies, priorities and plans. ",
+          "odurfrom": "2019-08-19",
+          "odurto": "2022-02-28",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [53]
+        },
+        {
+          "outputid": 27,
+          "pid": 31,
+          "output_description": "Provincial level DRRM Acts enable coordinated response capacity with inclusive response towards DRRM. ",
+          "odurfrom": "2019-08-19",
+          "odurto": "2022-02-28",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [122]
+        },
+        {
+          "outputid": 28,
+          "pid": 31,
+          "output_description": "753 Local Governments have localized DRRM Law, policies and strategic action plan in place with strengthened capacity for implementing DRRM and post disaster recovery  ",
+          "odurfrom": "2019-08-18",
+          "odurto": "2022-02-28",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [122]
+        },
+        {
+          "outputid": 29,
+          "pid": 31,
+          "output_description": "Federal, Provincial, Local level Government are committed to support and advocate for the effective implementation of the DRRM Act and NDRRMA through community engagement programs",
+          "odurfrom": "2019-08-19",
+          "odurto": "2022-02-28",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [200]
+        }
+      ]
+    },
+    {
+      "pid": 33,
+      "oid": 175,
+      "ptitle": "Nexus: Risk to Resilience through Collective Local Action ",
+      "pdurfrom": "2021-01-01",
+      "pdurto": "2021-12-31",
+      "approverOrgId": 175,
+      "createdon": "2021-03-02 12:03:10",
+      "createdby": 58,
+      "validation_status": 0,
+      "imported": 0,
+      "source": null,
+      "budget_local": 1545000,
+      "budget_usd": 13000,
+      "location": {
+        "province": [7, 7, 7, 3],
+        "district": [75, 75, 75, 29],
+        "municipality": [
+          26002, 72004, 72004, 72004, 26002, 72004, 72004, 26002, 72004, 72004,
+          26002, 26002
+        ],
+        "ward": []
+      },
+      "donor": [181],
+      "partner": [184, 185, 184, 185, 189, 185, 189, 185],
+      "output": [
+        {
+          "outputid": 30,
+          "pid": 33,
+          "output_description": "Enhanced the preparedness for disasters response through responsible digitalization",
+          "odurfrom": "2021-03-01",
+          "odurto": "2021-12-31",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [203]
+        },
+        {
+          "outputid": 31,
+          "pid": 33,
+          "output_description": "Strengthen the capacity of Municipalities on urban resilience to disaster and climate change with strong institutional basis for implementation",
+          "odurfrom": "2021-01-01",
+          "odurto": "2021-12-31",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [74]
+        }
+      ]
+    },
+    {
+      "pid": 34,
+      "oid": 27,
+      "ptitle": "Preparedness for humanitarian emergency to natural disaster in Nepal",
+      "pdurfrom": "2016-08-01",
+      "pdurto": "2021-12-31",
+      "approverOrgId": 24,
+      "createdon": "2021-03-02 12:09:33",
+      "createdby": 22,
+      "validation_status": 0,
+      "imported": 0,
+      "source": null,
+      "budget_local": 1550000,
+      "budget_usd": 13228,
+      "location": {
+        "province": [],
+        "district": [],
+        "municipality": [],
+        "ward": []
+      },
+      "donor": [24],
+      "partner": [],
+      "output": []
+    },
+    {
+      "pid": 35,
+      "oid": 178,
+      "ptitle": "School Disaster Risk Reduction Program",
+      "pdurfrom": "2019-08-01",
+      "pdurto": "2022-07-31",
+      "approverOrgId": 183,
+      "createdon": "2021-03-02 12:12:49",
+      "createdby": 61,
+      "validation_status": 0,
+      "imported": 0,
+      "source": null,
+      "budget_local": 1263787,
+      "budget_usd": 12637,
+      "location": {
+        "province": [],
+        "district": [],
+        "municipality": [],
+        "ward": []
+      },
+      "donor": [182],
+      "partner": [],
+      "output": []
+    },
+    {
+      "pid": 37,
+      "oid": 145,
+      "ptitle": "Nepal DRR Project ",
+      "pdurfrom": "2018-10-01",
+      "pdurto": "2020-09-30",
+      "approverOrgId": 187,
+      "createdon": "2021-03-02 12:22:27",
+      "createdby": 50,
+      "validation_status": 0,
+      "imported": 0,
+      "source": null,
+      "budget_local": 1111945,
+      "budget_usd": 11000,
+      "location": {
+        "province": [],
+        "district": [],
+        "municipality": [],
+        "ward": []
+      },
+      "donor": [187],
+      "partner": [],
+      "output": []
+    },
+    {
+      "pid": 38,
+      "oid": 137,
+      "ptitle": "ECHO_Promoting and strengthening DRR and school safety through the education sector in Nepal_ 2017-2018",
+      "pdurfrom": "2017-04-01",
+      "pdurto": "2019-01-31",
+      "approverOrgId": 129,
+      "createdon": "2021-03-03 18:53:56",
+      "createdby": 63,
+      "validation_status": 0,
+      "imported": 0,
+      "source": null,
+      "budget_local": 115851666,
+      "budget_usd": 989169,
+      "location": {
+        "province": [],
+        "district": [],
+        "municipality": [],
+        "ward": []
+      },
+      "donor": [190],
+      "partner": [],
+      "output": []
+    },
+    {
+      "pid": 40,
+      "oid": 39,
+      "ptitle": "AUGMENTATION OF NATIONAL AND LOCAL LEVEL EMERGENCY LOGISTICS PREPAREDNESS IN NEPAL",
+      "pdurfrom": "2017-06-01",
+      "pdurto": "2021-05-31",
+      "approverOrgId": 1,
+      "createdon": "2021-03-09 15:20:55",
+      "createdby": 18,
+      "validation_status": 0,
+      "imported": 0,
+      "source": null,
+      "budget_local": 0,
+      "budget_usd": 0,
+      "location": {
+        "province": [1, 2, 3, 4, 5, 6, 7],
+        "district": [57, 58, 59, 61, 70, 71],
+        "municipality": [
+          5002, 27006, 34003, 49013, 59003, 71004, 5002, 27006, 34003, 49013,
+          59003, 71004, 8003, 18003, 63008, 74006, 27006, 5002, 27006, 34003,
+          57007, 59003, 71004, 57007, 27006, 27006
+        ],
+        "ward": []
+      },
+      "donor": [10],
+      "partner": [
+        198, 1, 196, 197, 1, 1, 1, 220, 1, 221, 222, 223, 216, 217, 218, 196, 1,
+        224, 1, 225
+      ],
+      "output": [
+        {
+          "outputid": 34,
+          "pid": 40,
+          "output_description": "Facilities and equipment",
+          "odurfrom": "2017-06-01",
+          "odurto": "2021-12-31",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [208]
+        },
+        {
+          "outputid": 35,
+          "pid": 40,
+          "output_description": "Information and Data Preparedness",
+          "odurfrom": "2017-06-01",
+          "odurto": "2021-12-31",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [242]
+        },
+        {
+          "outputid": 44,
+          "pid": 40,
+          "output_description": "Skills and Trainings",
+          "odurfrom": "2017-07-01",
+          "odurto": "2021-12-31",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [199]
+        },
+        {
+          "outputid": 45,
+          "pid": 40,
+          "output_description": "Institutional Strengthening ",
+          "odurfrom": "2017-07-01",
+          "odurto": "2021-12-31",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [213]
+        }
+      ]
+    },
+    {
+      "pid": 41,
+      "oid": 145,
+      "ptitle": "Enhancing Response Capacity Through DRP",
+      "pdurfrom": "2018-03-01",
+      "pdurto": "2018-12-31",
+      "approverOrgId": 183,
+      "createdon": "2021-03-12 00:31:57",
+      "createdby": 50,
+      "validation_status": 0,
+      "imported": 0,
+      "source": null,
+      "budget_local": 5178371,
+      "budget_usd": 51271,
+      "location": {
+        "province": [
+          1, 1, 1, 1, 1, 1, 1, 1, 1, 7, 1, 1, 7, 1, 1, 1, 1, 7, 1, 1, 7, 1, 1
+        ],
+        "district": [
+          6, 6, 6, 6, 6, 6, 20, 68, 69, 5, 14, 20, 37, 67, 5, 5, 6, 14, 20, 27,
+          37, 45, 60, 67, 68, 69, 5, 37, 67, 5, 5, 6, 14, 20, 27, 37, 45, 60,
+          67, 68, 69, 14, 5, 6, 37, 67, 5, 5, 6, 20, 27, 37, 45, 60, 67, 68, 69,
+          5
+        ],
+        "municipality": [
+          6008, 49014, 49015, 49016, 6008, 6008, 49014, 49015, 49016, 6008,
+          49014, 49015, 49016, 6008, 6008, 49014, 49015, 49016, 6008, 6007,
+          6010, 6012, 49014, 49015, 49016, 6012, 6007, 6010, 6012, 49014, 49015,
+          6007, 5002, 5003, 5008, 6008, 6010, 14004, 14006, 14007, 27006, 27007,
+          37001, 37002, 37004, 49014, 49015, 49016, 63001, 63006, 63007, 63008,
+          71002, 71003, 71006, 71007, 71013
+        ],
+        "ward": []
+      },
+      "donor": [200],
+      "partner": [
+        203, 203, 203, 203, 203, 203, 203, 205, 206, 207, 208, 209, 210, 211,
+        212, 203, 205, 213, 203, 205
+      ],
+      "output": [
+        {
+          "outputid": 42,
+          "pid": 41,
+          "output_description": "Community members and local government authorities have DRRM awareness and have formulated and implemented participatory Local Disaster and Climate Resilience plans ",
+          "odurfrom": "2018-03-01",
+          "odurto": "2018-12-31",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [63]
+        },
+        {
+          "outputid": 43,
+          "pid": 41,
+          "output_description": "Early warning system, and NFI innovations are tested to identify local cost-effective solutions to disaster preparedness problems",
+          "odurfrom": "2018-03-01",
+          "odurto": "2018-12-31",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [213]
+        }
+      ]
+    },
+    {
+      "pid": 42,
+      "oid": 145,
+      "ptitle": "Promoting and strengthening school safety in Nepal through operationalizing the Comprehensive School Safety Framework (CSSF)",
+      "pdurfrom": "2015-01-03",
+      "pdurto": "2016-03-11",
+      "approverOrgId": 188,
+      "createdon": "2021-03-12 09:08:07",
+      "createdby": 50,
+      "validation_status": 0,
+      "imported": 0,
+      "source": null,
+      "budget_local": 10861570,
+      "budget_usd": 101510,
+      "location": {
+        "province": [7, 7, 7],
+        "district": [68, 68, 68],
+        "municipality": [
+          70001, 71005, 70001, 71005, 70001, 70001, 71005, 70001
+        ],
+        "ward": []
+      },
+      "donor": [19],
+      "partner": [36, 81, 36, 81, 34, 81],
+      "output": [
+        {
+          "outputid": 36,
+          "pid": 42,
+          "output_description": "Pillar 2 of the CSSF, school disaster management, contextualised in the SBDRM model for Nepal, is rolled out and tested to increase disaster preparedness of the education system with connections to CBDP by the end of the action.",
+          "odurfrom": "2015-01-03",
+          "odurto": "2016-12-31",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [176]
+        },
+        {
+          "outputid": 37,
+          "pid": 42,
+          "output_description": "Impact evidence and research is generated for the scale-up of DRR mainstreaming",
+          "odurfrom": "2015-03-01",
+          "odurto": "2016-12-31",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [122]
+        }
+      ]
+    },
+    {
+      "pid": 43,
+      "oid": 145,
+      "ptitle": "Promoting and strengthening DRR and school safety throughout the education sector in Nepal",
+      "pdurfrom": "2017-04-01",
+      "pdurto": "2018-09-30",
+      "approverOrgId": 188,
+      "createdon": "2021-03-12 10:15:03",
+      "createdby": 50,
+      "validation_status": 0,
+      "imported": 0,
+      "source": null,
+      "budget_local": 11441400,
+      "budget_usd": 114414,
+      "location": {
+        "province": [7],
+        "district": [67],
+        "municipality": [71011, 71011],
+        "ward": []
+      },
+      "donor": [19],
+      "partner": [201],
+      "output": [
+        {
+          "outputid": 39,
+          "pid": 43,
+          "output_description": "Result 1: National level: Education, child protection and disaster management stakeholders in Nepal work together to develop and disseminate a minimum package of school safety to support the implementation of the School Sector Development Plan (SSDP).",
+          "odurfrom": "2017-04-04",
+          "odurto": "2018-09-30",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [122]
+        }
+      ]
+    },
+    {
+      "pid": 44,
+      "oid": 145,
+      "ptitle": "Safe Schools in Disaster Prone Areas (SSDPA) -includng Phase II",
+      "pdurfrom": "2016-12-02",
+      "pdurto": "2020-06-30",
+      "approverOrgId": 129,
+      "createdon": "2021-03-12 10:53:07",
+      "createdby": 50,
+      "validation_status": 0,
+      "imported": 0,
+      "source": null,
+      "budget_local": 228486884,
+      "budget_usd": 2284869,
+      "location": {
+        "province": [],
+        "district": [],
+        "municipality": [],
+        "ward": []
+      },
+      "donor": [202],
+      "partner": [],
+      "output": [
+        {
+          "outputid": 40,
+          "pid": 44,
+          "output_description": "1.1) Schools are rehablitated/retrofitted, according to the safety strandard in 10 schools in Lamikhal, Mahadevstan, Toleni, Khatiwada VDC and Dipayal Municiplaity(2 model schools each in 5 target VDCs), 1.2) Sanitation and hydgine practice promoted in 10 schools in the target VDCs; 2.1)Schools inmprovement Plan (SIP) and Schools Based Disaster Management Plan (SBDMP)Promoted in school; 2.2) Local Authorities are supported to develop Local Disaster Risk Management Plan (LDRMP); 2.3) Community Awareness on DRR and school safety awareness promoted; 3.1) Community empowered to replicate Model school through CVA; 3.2) ",
+          "odurfrom": "2016-12-02",
+          "odurto": "2021-06-30",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [240]
+        }
+      ]
+    },
+    {
+      "pid": 45,
+      "oid": 145,
+      "ptitle": "Nepal Disaster Risk Reduction (NDRR)",
+      "pdurfrom": "2018-10-01",
+      "pdurto": "2020-09-30",
+      "approverOrgId": 129,
+      "createdon": "2021-03-12 10:54:11",
+      "createdby": 50,
+      "validation_status": 0,
+      "imported": 0,
+      "source": null,
+      "budget_local": 129252931,
+      "budget_usd": 1111945,
+      "location": {
+        "province": [],
+        "district": [],
+        "municipality": [],
+        "ward": []
+      },
+      "donor": [188, 199, 200],
+      "partner": [],
+      "output": []
+    },
+    {
+      "pid": 46,
+      "oid": 177,
+      "ptitle": "COVID-19 Emergency Preparedness and Response Project in Nepal",
+      "pdurfrom": "2020-04-01",
+      "pdurto": "2020-06-30",
+      "approverOrgId": 129,
+      "createdon": "2021-03-18 09:49:55",
+      "createdby": 60,
+      "validation_status": 0,
+      "imported": 0,
+      "source": null,
+      "budget_local": 2274984,
+      "budget_usd": 19956,
+      "location": {
+        "province": [
+          3, 3, 3, 3, 3, 7, 3, 3, 3, 3, 3, 3, 7, 7, 3, 3, 3, 3, 3, 3, 3, 3, 3, 7
+        ],
+        "district": [
+          31, 24, 24, 24, 24, 70, 24, 24, 24, 31, 31, 24, 70, 70, 31, 31, 24,
+          24, 24, 31, 24, 24, 24, 70
+        ],
+        "municipality": [
+          31002, 31004, 31008, 31002, 31008, 31002, 23004, 23009, 23009, 23004,
+          23009, 23009, 23004, 23009, 23009, 23004, 23009, 23009, 67001, 67003,
+          67001, 23004, 23005, 23004, 23005, 23005, 23005, 23005, 31002, 31004,
+          31008, 31002, 31002, 31004, 31008, 31002, 23004, 23009, 23004, 67001,
+          67003, 67001, 67001, 67003, 67001, 31002, 31004, 31008, 31002, 31002,
+          31004, 31008, 31002, 23004, 23009, 23009, 23004, 23009, 23009, 23004,
+          23009, 23004, 31002, 31004, 31008, 31002, 23005, 23005, 23005, 23005,
+          23004, 23004, 67001, 67003, 67001
+        ],
+        "ward": []
+      },
+      "donor": [227],
+      "partner": [
+        228, 228, 229, 229, 229, 229, 230, 234, 234, 234, 228, 228, 229, 230,
+        230, 228, 228, 229, 229, 229, 228, 234, 234, 229, 230
+      ],
+      "output": [
+        {
+          "outputid": 46,
+          "pid": 46,
+          "output_description": "Food packages distributed to most vulnerable people",
+          "odurfrom": "2020-04-01",
+          "odurto": "2020-06-30",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [213]
+        },
+        {
+          "outputid": 48,
+          "pid": 46,
+          "output_description": "Self-employment program of Helambu Municipality is supported",
+          "odurfrom": "2020-04-01",
+          "odurto": "2020-06-30",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [199]
+        },
+        {
+          "outputid": 49,
+          "pid": 46,
+          "output_description": "Sanitation and Hygiene Materials supported along with awareness and counselling (women and  adolescence)",
+          "odurfrom": "2020-04-01",
+          "odurto": "2020-06-30",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [245]
+        },
+        {
+          "outputid": 50,
+          "pid": 46,
+          "output_description": "Materials supported to improve condition of Isolation and quarantine of local health centers, local  agencies and communities and medicine support to needy people",
+          "odurfrom": "2020-04-01",
+          "odurto": "2020-06-30",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [199]
+        },
+        {
+          "outputid": 51,
+          "pid": 46,
+          "output_description": "Materials supported to improve condition of Isolation and quarantine of local health centers, local  agencies and communities and medicine support to needy people",
+          "odurfrom": "2020-04-01",
+          "odurto": "2020-06-30",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [213]
+        },
+        {
+          "outputid": 52,
+          "pid": 46,
+          "output_description": "Accountability and local networking promoted",
+          "odurfrom": "2020-04-01",
+          "odurto": "2020-06-30",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": []
+        },
+        {
+          "outputid": 53,
+          "pid": 46,
+          "output_description": "Accountability and local networking promoted",
+          "odurfrom": "2020-04-01",
+          "odurto": "2020-06-30",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": []
+        }
+      ]
+    },
+    {
+      "pid": 47,
+      "oid": 176,
+      "ptitle": "VISTAR II- Strengthening resilience of communities and institutions from the impacts of natural disasters in Far and Mid- Western Region of Nepal",
+      "pdurfrom": "2015-03-01",
+      "pdurto": "2016-12-31",
+      "approverOrgId": 129,
+      "createdon": "2021-03-23 17:06:09",
+      "createdby": 59,
+      "validation_status": 0,
+      "imported": 0,
+      "source": null,
+      "budget_local": 65906793,
+      "budget_usd": 676412,
+      "location": {
+        "province": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+        "district": [
+          52, 52, 52, 52, 52, 67, 74, 75, 52, 67, 74, 75, 52, 52, 52, 52, 67,
+          74, 75, 52, 52, 52, 52, 52, 67, 74, 75, 52, 52, 67, 74, 75, 52, 52
+        ],
+        "municipality": [
+          56010, 71009, 71011, 72001, 72007, 73004, 56010, 56010, 71009, 71011,
+          72001, 72007, 73004, 56010, 71009, 71011, 72001, 72007, 73004, 56010,
+          56010, 71009, 71011, 72001, 72007, 73004, 56010, 56010, 71009, 71011,
+          72001, 72007, 73004, 56010, 56010, 71009, 71011, 72001, 72007, 73004,
+          56010, 56010, 71009, 71011, 72001, 72007, 73004, 56010, 56010, 71009,
+          71011, 72001, 72007, 73004, 56010, 56010, 71009, 71011, 72001, 72007,
+          73004, 56010, 56010, 71009, 71011, 72001, 72007, 73004, 56010, 56010,
+          71009, 71011, 72001, 72007, 73004, 56010
+        ],
+        "ward": []
+      },
+      "donor": [19],
+      "partner": [
+        176, 184, 201, 243, 259, 260, 34, 176, 184, 201, 243, 259, 176, 184,
+        201, 243, 259, 260, 176, 184, 201, 243, 259, 260, 176, 189, 201, 243,
+        259, 260, 176, 184, 201, 243, 259, 260, 176, 189, 201, 243, 259, 260,
+        176, 184, 201, 243, 259, 260, 176, 184, 201, 243, 259, 260, 176, 184,
+        243, 259, 260, 176, 184, 243, 259, 260, 176, 189, 201, 243, 259, 260,
+        176, 184, 201, 243, 259, 260, 176, 184, 201, 243, 259, 260, 176, 243,
+        176, 184, 201, 243, 259, 260, 176, 184, 201, 243, 259, 260
+      ],
+      "output": [
+        {
+          "outputid": 58,
+          "pid": 47,
+          "output_description": "The CBDP model is consolidated, scaled up and replicated through integration into government's development planning and implementation processes",
+          "odurfrom": "2015-03-01",
+          "odurto": "2016-12-31",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [234]
+        },
+        {
+          "outputid": 73,
+          "pid": 47,
+          "output_description": "Linkages between communities to district DRR institutions developed and strengthened to carryout coordinated responses and mainstream DRR into development",
+          "odurfrom": "2015-03-01",
+          "odurto": "2016-12-31",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [200]
+        },
+        {
+          "outputid": 74,
+          "pid": 47,
+          "output_description": "Targeted communities linked with functional EWS and DEOC receive timely inclusive early warning messages in emergency situations and undertake prescribed behaviors",
+          "odurfrom": "2015-03-01",
+          "odurto": "2016-12-31",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [229]
+        },
+        {
+          "outputid": 75,
+          "pid": 47,
+          "output_description": "Formulation / endorsement of DRR policy, institutionalization and its implementation is enhanced by strong coordination, engagement and evidence based advocacy to NRRC, NPC, and DpNet",
+          "odurfrom": "2015-03-01",
+          "odurto": "2016-12-31",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [72]
+        }
+      ]
+    },
+    {
+      "pid": 48,
+      "oid": 27,
+      "ptitle": "Strengthening Community Based Disaster Management Capacity (preparedness and Response) in Rajpur Municipality, Rautahat",
+      "pdurfrom": "2018-06-15",
+      "pdurto": "2019-03-31",
+      "approverOrgId": 24,
+      "createdon": "2021-03-25 11:02:05",
+      "createdby": 22,
+      "validation_status": 0,
+      "imported": 0,
+      "source": null,
+      "budget_local": 8999996,
+      "budget_usd": 79520,
+      "location": {
+        "province": [2, 2, 2],
+        "district": [32, 32, 32],
+        "municipality": [32017, 32017, 32017, 32017, 32017],
+        "ward": []
+      },
+      "donor": [239, 24],
+      "partner": [240, 240, 240],
+      "output": [
+        {
+          "outputid": 54,
+          "pid": 48,
+          "output_description": "Improved monsoon emergency preparedness and response capacity at community and municipality level in Rajpur Municipality, Rautahat district",
+          "odurfrom": "2018-06-15",
+          "odurto": "2019-03-31",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [202]
+        },
+        {
+          "outputid": 55,
+          "pid": 48,
+          "output_description": "Community based structures and mechanisms adopt preparedness and response behaviour to cope with disasters  ",
+          "odurfrom": "2018-06-15",
+          "odurto": "2019-03-31",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [74]
+        },
+        {
+          "outputid": 56,
+          "pid": 48,
+          "output_description": "Flood vulnerable households supported with small scale mitigation measures",
+          "odurfrom": "2018-06-15",
+          "odurto": "2019-03-31",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [72]
+        }
+      ]
+    },
+    {
+      "pid": 49,
+      "oid": 33,
+      "ptitle": "Managing Risk through Economic Development ",
+      "pdurfrom": "2018-01-01",
+      "pdurto": "2021-06-30",
+      "approverOrgId": 32,
+      "createdon": "2021-03-26 09:47:48",
+      "createdby": 20,
+      "validation_status": 0,
+      "imported": 0,
+      "source": null,
+      "budget_local": 2444851599,
+      "budget_usd": 2448516,
+      "location": {
+        "province": [
+          7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7,
+          7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7,
+          7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7,
+          7, 7, 7, 7, 7, 7, 7, 7, 7, 7
+        ],
+        "district": [
+          67, 75, 67, 67, 73, 75, 73, 67, 73, 75, 67, 67, 73, 74, 75, 75, 67,
+          73, 74, 75, 75, 67, 73, 74, 75, 75, 74, 74, 67, 73, 74, 75, 75, 67,
+          73, 75, 67, 67, 73, 75, 67, 67, 73, 75, 75, 67, 73, 75, 75, 67, 73,
+          75, 75, 67, 73, 74, 75, 67, 67, 73, 74, 75, 73, 67, 74, 75, 67, 67,
+          73, 74, 75, 67, 67, 73, 74, 75, 67, 74, 74, 67, 73, 74, 75, 67, 73,
+          74, 75, 75, 67, 73, 74, 75, 75, 67, 73, 75, 67, 67, 73, 75, 67, 74,
+          74, 67, 73, 75, 67, 67, 73, 74, 75, 74, 74, 74, 67, 73, 75, 67, 67,
+          73, 75, 67, 74, 74, 73, 73, 67, 73, 74, 75, 67, 67, 73, 75, 74, 74,
+          74, 74, 67, 73, 74, 75, 75, 73, 74, 75, 73, 74, 74, 73, 73, 67, 73,
+          74, 73, 74, 75, 74, 73, 74, 74, 73, 74, 73, 67, 73, 74, 75, 67, 74,
+          74, 67, 73, 74, 75, 74, 67, 73, 74, 75, 67, 67, 73, 74, 75, 67, 67,
+          73, 74, 75, 67, 74, 67, 73, 74, 75, 67, 67, 73, 74, 75, 67, 67, 73,
+          74, 75, 67, 67, 73, 74, 75, 74, 73, 73, 73, 73, 73, 73, 73, 73, 67,
+          73, 74, 75, 67, 67, 73, 74, 75, 67, 73, 73, 74, 74, 67, 73, 74, 75,
+          67, 74, 74, 73, 75, 75, 67, 73, 74, 75, 73, 73, 73, 74, 74, 73, 74,
+          75, 74
+        ],
+        "municipality": [],
+        "ward": []
+      },
+      "donor": [149],
+      "partner": [
+        150, 241, 242, 150, 242, 150, 242, 150, 242, 150, 241, 242, 150, 241,
+        242, 241, 150, 241, 242, 150, 242, 150, 242, 150, 242, 150, 242, 150,
+        242, 150, 241, 242, 150, 241, 242, 241, 242, 241, 150, 241, 242, 150,
+        241, 242, 150, 241, 242, 150, 242, 150, 242, 241, 150, 242, 150, 241,
+        242, 241, 150, 242, 150, 242, 241, 242, 150, 242, 241, 150, 241, 242,
+        150, 241, 242, 241, 242, 150, 241, 242, 241, 242, 241, 242, 241, 242,
+        150, 241, 242, 241, 150, 241, 242, 150, 241, 242, 150, 241, 242, 150,
+        241, 242, 241, 150, 241, 242, 150, 241, 242, 150, 241, 242, 150, 241,
+        242, 242, 242, 242, 150, 241, 242, 150, 241, 242, 242, 241, 150, 241,
+        242, 241, 150, 242, 150, 241, 242, 242, 241
+      ],
+      "output": [
+        {
+          "outputid": 59,
+          "pid": 49,
+          "output_description": "Strengthened Social and physical systems are in place that improve the capacity of communities affected by climate change, hazards and poverty, to absorb and adapt to risks, shocks and stresses that affect livelihoods",
+          "odurfrom": "2018-01-01",
+          "odurto": "2021-06-30",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [122]
+        },
+        {
+          "outputid": 60,
+          "pid": 49,
+          "output_description": "Integrated Resilience Building Research & Learning Targeted research of the M-RED program produces greater understanding of an integrated approach to resilience-building, and influences practice in resilience. ",
+          "odurfrom": "2018-01-01",
+          "odurto": "2021-06-30",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [70]
+        },
+        {
+          "outputid": 61,
+          "pid": 49,
+          "output_description": "Improved Livelihood Resilience Market systems and natural resource management practices in target areas reinforce each other to protect and adapt livelihoods against natural hazards and climate change. ",
+          "odurfrom": "2018-01-01",
+          "odurto": "2021-06-30",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [72]
+        }
+      ]
+    },
+    {
+      "pid": 50,
+      "oid": 147,
+      "ptitle": "Strengthening Community Resilience to Disaster through School",
+      "pdurfrom": "2018-07-01",
+      "pdurto": "2021-06-30",
+      "approverOrgId": 245,
+      "createdon": "2021-03-30 09:06:29",
+      "createdby": 49,
+      "validation_status": 0,
+      "imported": 0,
+      "source": null,
+      "budget_local": 15137627,
+      "budget_usd": 131631,
+      "location": {
+        "province": [
+          1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+          1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+        ],
+        "district": [
+          6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6,
+          6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6
+        ],
+        "municipality": [
+          6001, 6012, 6001, 6001, 6012, 6001, 6001, 6012, 6001, 6001, 6012,
+          6001, 6001, 6012, 6001, 6001, 6012, 6001, 6001, 6012, 6001, 6001,
+          6012, 6001, 6001, 6012, 6001, 6001, 6012, 6001, 6001, 6012, 6001,
+          6001, 6012, 6001, 6001, 6012, 6001, 6001, 6012, 6001, 6001, 6012,
+          6001, 6001, 6012, 6001, 6001, 6012, 6001, 6001, 6012, 6001, 6001,
+          6012, 6001, 6001, 6012, 6001, 6001, 6012, 6001, 6001, 6012, 6001,
+          6001, 6012, 6001, 6001, 6012, 6001, 6001, 6012, 6001, 6001, 6012,
+          6001, 6001, 6012, 6001, 6001, 6012, 6001, 6001, 6012, 6001, 6001,
+          6012, 6001, 6001, 6012, 6001, 6001, 6012, 6001, 6001, 6012, 6001,
+          6001, 6012, 6001, 6001, 6012, 6001, 6001, 6012, 6001, 6001, 6012,
+          6001, 6001, 6012, 6001, 6001, 6012, 6001
+        ],
+        "ward": []
+      },
+      "donor": [244],
+      "partner": [
+        247, 247, 247, 247, 247, 247, 247, 247, 247, 247, 247, 247, 247, 247,
+        247, 247, 247, 247, 247, 247, 247, 247, 247, 247, 247, 247, 247, 247,
+        247, 247, 247, 247, 247, 250, 247, 250, 247, 247, 247, 247, 247, 247,
+        247, 247, 247, 247
+      ],
+      "output": [
+        {
+          "outputid": 64,
+          "pid": 50,
+          "output_description": "Schools updated their regular development plan i.e SIP & annual work plan incorporating DRR & CCA implemented activities listed in their plan.",
+          "odurfrom": "2018-07-01",
+          "odurto": "2021-06-30",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [74]
+        },
+        {
+          "outputid": 66,
+          "pid": 50,
+          "output_description": "Schools have improved their capaities on Safe School/DRR",
+          "odurfrom": "2018-07-01",
+          "odurto": "2021-06-30",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [200]
+        },
+        {
+          "outputid": 67,
+          "pid": 50,
+          "output_description": "Strengthened Climate Smart Safe learning facilities ensuring participation of concerned stakehlders including girls & boys.",
+          "odurfrom": "2018-07-30",
+          "odurto": "2021-06-30",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [131]
+        },
+        {
+          "outputid": 68,
+          "pid": 50,
+          "output_description": " Best practices, success stories and process of the project is documented and disseminated",
+          "odurfrom": "2018-07-01",
+          "odurto": "2021-06-30",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [62]
+        },
+        {
+          "outputid": 69,
+          "pid": 50,
+          "output_description": "Learning from the project are disseminated to local and national level stakeholders.",
+          "odurfrom": "2018-07-02",
+          "odurto": "2021-06-30",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [126]
+        },
+        {
+          "outputid": 70,
+          "pid": 50,
+          "output_description": "Knowledge on climate smart safe school enhanced at local level",
+          "odurfrom": "2018-07-01",
+          "odurto": "2021-06-30",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [122]
+        }
+      ]
+    },
+    {
+      "pid": 51,
+      "oid": 147,
+      "ptitle": "Resilience Plus: Building Resilience and Ensuring Basic Needs for the Most Vulnerable in Nepal \"",
+      "pdurfrom": "2020-07-01",
+      "pdurto": "2021-05-15",
+      "approverOrgId": 245,
+      "createdon": "2021-03-30 09:18:13",
+      "createdby": 49,
+      "validation_status": 0,
+      "imported": 0,
+      "source": null,
+      "budget_local": 22505892,
+      "budget_usd": 195703,
+      "location": {
+        "province": [],
+        "district": [],
+        "municipality": [],
+        "ward": []
+      },
+      "donor": [10],
+      "partner": [],
+      "output": []
+    },
+    {
+      "pid": 52,
+      "oid": 147,
+      "ptitle": "WASH SDG programme in Nepal",
+      "pdurfrom": "2017-08-01",
+      "pdurto": "2022-12-30",
+      "approverOrgId": 245,
+      "createdon": "2021-03-30 09:24:03",
+      "createdby": 49,
+      "validation_status": 0,
+      "imported": 0,
+      "source": null,
+      "budget_local": 214025430,
+      "budget_usd": 1861091,
+      "location": {
+        "province": [],
+        "district": [],
+        "municipality": [],
+        "ward": []
+      },
+      "donor": [246],
+      "partner": [],
+      "output": [
+        {
+          "outputid": 63,
+          "pid": 52,
+          "output_description": "WASH demand creation Strategy/Plan developed by Rural Municipalities/Municipalities",
+          "odurfrom": "2017-08-01",
+          "odurto": "2022-12-30",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [196]
+        }
+      ]
+    },
+    {
+      "pid": 53,
+      "oid": 147,
+      "ptitle": "Strengthening Community Resilience to Disaster through safe School construction-Grant2",
+      "pdurfrom": "2019-10-01",
+      "pdurto": "2021-03-31",
+      "approverOrgId": 245,
+      "createdon": "2021-03-30 09:55:58",
+      "createdby": 49,
+      "validation_status": 0,
+      "imported": 0,
+      "source": null,
+      "budget_local": 1471143,
+      "budget_usd": 12792,
+      "location": {
+        "province": [1, 1, 1, 1],
+        "district": [6, 6, 6, 6],
+        "municipality": [6001, 6001, 6001, 6001, 6001, 6001, 6001, 6001],
+        "ward": []
+      },
+      "donor": [244],
+      "partner": [247, 247, 247, 247],
+      "output": [
+        {
+          "outputid": 65,
+          "pid": 53,
+          "output_description": "Three roomed child and disable inclusive school building has been constructed",
+          "odurfrom": "2019-10-01",
+          "odurto": "2021-03-31",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [280]
+        }
+      ]
+    },
+    {
+      "pid": 54,
+      "oid": 238,
+      "ptitle": "Sustainable Tourism and Green Growth for Heritage Settlements of Kathmandu Valley (PARYA SAMPADA)",
+      "pdurfrom": "2018-02-01",
+      "pdurto": "2021-01-01",
+      "approverOrgId": 248,
+      "createdon": "2021-03-30 12:13:05",
+      "createdby": 66,
+      "validation_status": 0,
+      "imported": 0,
+      "source": null,
+      "budget_local": 284697105,
+      "budget_usd": 2450000,
+      "location": {
+        "province": [3, 3, 3, 3],
+        "district": [28, 28, 28, 28],
+        "municipality": [25004, 25004, 25004, 25004, 25004, 25004],
+        "ward": []
+      },
+      "donor": [9],
+      "partner": [
+        251, 252, 253, 254, 255, 238, 252, 253, 254, 255, 238, 252, 253, 254,
+        255, 238, 252, 253, 254, 255
+      ],
+      "output": [
+        {
+          "outputid": 71,
+          "pid": 54,
+          "output_description": "Families are provided with Technical Assistance on heritage housing ",
+          "odurfrom": "2018-02-01",
+          "odurto": "2021-01-31",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [288]
+        }
+      ]
+    },
+    {
+      "pid": 55,
+      "oid": 137,
+      "ptitle": "NPL Emergency Preparedness and Response Pooled Fund 2018-2021",
+      "pdurfrom": "2018-08-10",
+      "pdurto": "2021-06-30",
+      "approverOrgId": 53,
+      "createdon": "2021-03-30 19:52:16",
+      "createdby": 63,
+      "validation_status": 0,
+      "imported": 0,
+      "source": null,
+      "budget_local": 13400000,
+      "budget_usd": 121818,
+      "location": {
+        "province": [3, 3, 3, 3, 3],
+        "district": [27, 27, 27, 27, 27],
+        "municipality": [
+          27006, 27006, 27006, 27006, 27006, 27006, 27006, 27006, 27006, 27006,
+          27006
+        ],
+        "ward": []
+      },
+      "donor": [256],
+      "partner": [789, 789, 790],
+      "output": [
+        {
+          "outputid": 90,
+          "pid": 55,
+          "output_description": "Emergency Preparedness and Response -Capacity building support of SCI staff and Partner (Including EPP and ERT training) ",
+          "odurfrom": "2018-08-10",
+          "odurto": "2021-06-30",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [270]
+        },
+        {
+          "outputid": 91,
+          "pid": 55,
+          "output_description": "Emergency Preparedness ",
+          "odurfrom": "2018-08-10",
+          "odurto": "2021-06-30",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [270]
+        }
+      ]
+    },
+    {
+      "pid": 56,
+      "oid": 176,
+      "ptitle": "PRAYAAS-II: Building resilience of the most at risk households and communities through transformative, innovative, inclusion of diversity and process of equity across the earthquake affected areas in Nepal.",
+      "pdurfrom": "2018-04-01",
+      "pdurto": "2020-01-31",
+      "approverOrgId": 261,
+      "createdon": "2021-03-31 14:58:46",
+      "createdby": 59,
+      "validation_status": 0,
+      "imported": 0,
+      "source": null,
+      "budget_local": 64801942,
+      "budget_usd": 665073,
+      "location": {
+        "province": [3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3],
+        "district": [
+          24, 24, 31, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24
+        ],
+        "municipality": [
+          23006, 31003, 36010, 23006, 31003, 36010, 23006, 23006, 31003, 36010,
+          31003, 23006, 31003, 36010, 23006, 23006, 31003, 36010, 23006, 23006,
+          31003, 36010, 23006, 23006, 31003, 36010, 23006, 23006, 31003, 36010,
+          23006, 23006, 31003, 36010, 23006, 31003, 36010, 23006, 23006, 31003,
+          36010, 23006, 23006, 31003, 36010, 23006, 23006, 31003, 36010, 23006,
+          23006, 31003, 36010, 23006, 23006, 31003, 36010, 23006, 23006, 31003,
+          36010, 23006, 23006, 31003, 36010, 23006, 23006, 31003, 36010, 23006
+        ],
+        "ward": []
+      },
+      "donor": [19],
+      "partner": [
+        176, 262, 265, 266, 267, 176, 262, 263, 265, 266, 176, 262, 265, 266,
+        267, 176, 262, 263, 265, 266, 176, 262, 263, 265, 266, 176, 262, 265,
+        266, 267, 176, 262, 263, 265, 266, 176, 262, 263, 265, 266, 176, 262,
+        263, 265, 266, 176, 262, 265, 266, 267, 176, 262, 263, 265, 266, 176,
+        262, 263, 265, 266, 176, 262, 176, 262, 263, 265, 266, 176, 262, 263,
+        265, 266, 176, 262, 263, 265, 266, 176, 262, 265, 266, 267, 176, 262,
+        263, 265, 266, 176, 262, 263, 265, 266
+      ],
+      "output": [
+        {
+          "outputid": 76,
+          "pid": 56,
+          "output_description": "Reduce the humanitarian risks of most at risk HHs through access to information, financial resources (Govt and MFI), innovative quick impact livelihood actions, risk transfers and joint advocacy actions.",
+          "odurfrom": "2018-04-01",
+          "odurto": "2020-01-31",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [193]
+        },
+        {
+          "outputid": 77,
+          "pid": 56,
+          "output_description": "At risk communities vulnerabilities reduced through community structure strengthening, risk informed programming and collaborative actions.",
+          "odurfrom": "2018-04-01",
+          "odurto": "2020-01-31",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [200]
+        },
+        {
+          "outputid": 78,
+          "pid": 56,
+          "output_description": "Local institutions' resilience enhanced by strengthening inclusive risk governance for reconstruction, DRR, effective preparedness to response and to 'Build Back Better'.",
+          "odurfrom": "2018-04-01",
+          "odurto": "2020-01-31",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [74]
+        }
+      ]
+    },
+    {
+      "pid": 57,
+      "oid": 176,
+      "ptitle": "PRAYAAS - Strengthening resilience of local communities and institutions from the impacts of natural disaster along the earthquake affected regions of Nepal.",
+      "pdurfrom": "2016-05-01",
+      "pdurto": "2018-01-31",
+      "approverOrgId": 261,
+      "createdon": "2021-03-31 15:40:00",
+      "createdby": 59,
+      "validation_status": 0,
+      "imported": 0,
+      "source": null,
+      "budget_local": 66572865,
+      "budget_usd": 683248,
+      "location": {
+        "province": [4, 4, 4, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3],
+        "district": [
+          44, 44, 44, 22, 22, 22, 22, 22, 22, 24, 26, 44, 22, 22, 22, 22, 22,
+          22, 22
+        ],
+        "municipality": [
+          22003, 22006, 23009, 23010, 30005, 30013, 36005, 36008, 36010, 36011,
+          36005, 22003, 22006, 23009, 23010, 30005, 30013, 36005, 36008, 36010,
+          36011, 36005, 22003, 22006, 23009, 23010, 30005, 30013, 36005, 36008,
+          36010, 36011, 36005, 22003, 22006, 23009, 23010, 30005, 30013, 36005,
+          36008, 36010, 36011, 22003, 22003, 22006, 23009, 23010, 30005, 30013,
+          36005, 36008, 36010, 36011, 22003, 22003, 22006, 23009, 23010, 30005,
+          30013, 36005, 36008, 36010, 36011, 22003, 22003, 22006, 23009, 23010,
+          30005, 30013, 36005, 36008, 36010, 36011, 22003, 22003, 22006, 23009,
+          23010, 30005, 30013, 36005, 36008, 36010, 36011, 22003, 22003, 22006,
+          23009, 23010, 30005, 30013, 36005, 36008, 36010, 36011, 22003, 22003,
+          22006, 23009, 23010, 30005, 30013, 36005, 36008, 36010, 36011, 22003,
+          22003, 22006, 23009, 23010, 30005, 30013, 36005, 36008, 36010, 36011,
+          22003, 22003, 22006, 23009, 23010, 30005, 30013, 36005, 36008, 36010,
+          36011, 22003, 22003, 22006, 23009, 23010, 30005, 30013, 36005, 36008,
+          36010, 36011, 22003, 22003, 22006, 23009, 23010, 30005, 30013, 36005,
+          36008, 36010, 36011, 22003
+        ],
+        "ward": []
+      },
+      "donor": [19],
+      "partner": [
+        82, 176, 243, 263, 268, 269, 82, 176, 243, 263, 268, 269, 82, 176, 243,
+        267, 268, 269, 82, 176, 243, 263, 268, 269, 82, 176, 243, 263, 268, 269,
+        82, 176, 243, 263, 268, 269, 82, 176, 243, 263, 268, 269, 82, 176, 243,
+        263, 268, 269, 82, 176, 243, 263, 268, 269, 82, 176, 243, 263, 268, 269,
+        82, 176, 243, 267, 268, 269, 82, 176, 243, 263, 268, 269, 82, 243, 267,
+        268, 269, 176, 243, 82, 176, 243, 267, 268, 269, 82, 176, 243, 263, 268,
+        269, 176
+      ],
+      "output": [
+        {
+          "outputid": 79,
+          "pid": 57,
+          "output_description": "Good practices of inclusive CBDP model as essential for strengthening community resilience implemented through integration into local government's recovery, reconstruction and development plans.",
+          "odurfrom": "2016-05-01",
+          "odurto": "2018-12-31",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [74]
+        },
+        {
+          "outputid": 80,
+          "pid": 57,
+          "output_description": "Institutional linkages between communities to district DRR and response actors established and strengthened to carryout coordinated disaster risk reduction and response actions.",
+          "odurfrom": "2016-05-01",
+          "odurto": "2018-12-31",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [200]
+        },
+        {
+          "outputid": 81,
+          "pid": 57,
+          "output_description": "The priority DRR activities listed in Disaster Management Plans implemented by the capacitated DMCs/ Sectoral line agencies & humanitarian response actors.",
+          "odurfrom": "2016-05-12",
+          "odurto": "2018-12-31",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [122]
+        },
+        {
+          "outputid": 82,
+          "pid": 57,
+          "output_description": "Inclusive Disaster risk reduction integrated into Recovery, Reconstruction and Development plans/ policy documents of GoN through strong coordination, engagement and evidence based advocacy.",
+          "odurfrom": "2016-05-12",
+          "odurto": "2018-12-31",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [234]
+        }
+      ]
+    },
+    {
+      "pid": 58,
+      "oid": 52,
+      "ptitle": "Nepal Flood Resilience Project",
+      "pdurfrom": "2021-04-01",
+      "pdurto": "2025-03-31",
+      "approverOrgId": 52,
+      "createdon": "2021-03-31 15:43:14",
+      "createdby": 27,
+      "validation_status": 0,
+      "imported": 0,
+      "source": null,
+      "budget_local": 19215171,
+      "budget_usd": 163075,
+      "location": {
+        "province": [5, 5, 5, 5],
+        "district": [65, 65, 65, 65],
+        "municipality": [
+          58004, 58006, 58007, 71008, 71013, 58004, 58004, 58006, 58007, 71008,
+          71013, 58004, 58006, 58007, 71008, 71013, 58004, 58004, 58006, 58007,
+          71008, 71013, 58004, 58004, 58006, 58007, 71008, 71013, 58004
+        ],
+        "ward": []
+      },
+      "donor": [194],
+      "partner": [275, 275, 275, 275, 275],
+      "output": [
+        {
+          "outputid": 85,
+          "pid": 58,
+          "output_description": "Increased flood resilience knowledge and actions of communities making them more flood resilient.",
+          "odurfrom": "2021-01-04",
+          "odurto": "2025-03-31",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [64]
+        },
+        {
+          "outputid": 86,
+          "pid": 58,
+          "output_description": "Increase investment in flood resilience activities at national, sub-national and local government level through planning process which include DRR and CC adaptation ",
+          "odurfrom": "2021-04-01",
+          "odurto": "2025-03-31",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [136]
+        },
+        {
+          "outputid": 87,
+          "pid": 58,
+          "output_description": "Federal and targeted provincial governments have strong and effective provisions in their policies and laws about flood resilience",
+          "odurfrom": "2021-01-04",
+          "odurto": "2025-03-31",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [85]
+        }
+      ]
+    },
+    {
+      "pid": 59,
+      "oid": 176,
+      "ptitle": "Disaster Risk Reduction and Building Back Better Schools in Nepal",
+      "pdurfrom": "2016-01-01",
+      "pdurto": "2017-12-31",
+      "approverOrgId": 261,
+      "createdon": "2021-03-31 21:59:06",
+      "createdby": 59,
+      "validation_status": 0,
+      "imported": 0,
+      "source": null,
+      "budget_local": 0,
+      "budget_usd": 110009,
+      "location": {
+        "province": [3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3],
+        "district": [
+          31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31,
+          31, 31, 31, 31
+        ],
+        "municipality": [
+          31002, 31004, 31008, 31008, 31002, 31004, 31008, 31002, 31002, 31004,
+          31008, 31002, 31002, 31004, 31008, 31002, 31002, 31004, 31008, 31002,
+          31002, 31004, 31008, 31002, 31002, 31004, 31008, 31002, 31002, 31004,
+          31008, 31002, 31002, 31004, 31008, 31002, 31002, 31004, 31008, 31002,
+          31004, 31008, 31002, 31004, 31008, 31002, 31002, 31004, 31008, 31002,
+          31004, 31008, 31002, 31002, 31004, 31008, 31002, 31002, 31004, 31008,
+          31002
+        ],
+        "ward": []
+      },
+      "donor": [270],
+      "partner": [
+        176, 274, 176, 274, 176, 274, 176, 274, 176, 274, 176, 274, 176, 274,
+        176, 274, 176, 274, 176, 274, 176, 274, 176, 274, 176, 274, 176, 274,
+        176, 274, 176, 274, 176, 274, 176, 274, 176, 274
+      ],
+      "output": [
+        {
+          "outputid": 83,
+          "pid": 59,
+          "output_description": "School based DRR including school safety measures are implemented and contributed to prepare school based DRR policy and guidelines",
+          "odurfrom": "2016-01-01",
+          "odurto": "2017-12-31",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [275]
+        },
+        {
+          "outputid": 84,
+          "pid": 59,
+          "output_description": "Model school using standard designs and resilience technique are demonstrated and the process documented for replicate in the target Build Back Better component 1.",
+          "odurfrom": "2016-01-01",
+          "odurto": "2021-12-31",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [278]
+        }
+      ]
+    },
+    {
+      "pid": 60,
+      "oid": 151,
+      "ptitle": "Empowering Youth Led Volunteering in Locally Led Responses (YLVO)",
+      "pdurfrom": "2019-05-01",
+      "pdurto": "2021-03-31",
+      "approverOrgId": 9,
+      "createdon": "2021-04-01 10:21:42",
+      "createdby": 56,
+      "validation_status": 0,
+      "imported": 0,
+      "source": null,
+      "budget_local": 70000,
+      "budget_usd": 82063,
+      "location": {
+        "province": [],
+        "district": [],
+        "municipality": [],
+        "ward": []
+      },
+      "donor": [9],
+      "partner": [],
+      "output": []
+    },
+    {
+      "pid": 61,
+      "oid": 151,
+      "ptitle": "Tackling the spread of covid-19 in the most vulnerable communities ",
+      "pdurfrom": "2020-05-01",
+      "pdurto": "2021-06-30",
+      "approverOrgId": 10,
+      "createdon": "2021-04-01 10:26:42",
+      "createdby": 56,
+      "validation_status": 0,
+      "imported": 0,
+      "source": null,
+      "budget_local": 84900000,
+      "budget_usd": 688000,
+      "location": {
+        "province": [],
+        "district": [],
+        "municipality": [],
+        "ward": []
+      },
+      "donor": [10, 271],
+      "partner": [],
+      "output": [
+        {
+          "outputid": 97,
+          "pid": 61,
+          "output_description": " 1: Increased awareness of COVID-19 preparedness through WASH and handwashing 2: Supply chains strengthened to increase product access for affected communities 3. : National and local media used to increase awareness on hygiene and behaviour change  through national and local media",
+          "odurfrom": "2020-04-01",
+          "odurto": "2021-06-30",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [62]
+        }
+      ]
+    },
+    {
+      "pid": 62,
+      "oid": 151,
+      "ptitle": "Enhanced access to prevention measures through basic livelihood and hygiene product support to vulnerable households of Nepal",
+      "pdurfrom": "2020-05-01",
+      "pdurto": "2021-04-30",
+      "approverOrgId": 151,
+      "createdon": "2021-04-01 10:29:55",
+      "createdby": 56,
+      "validation_status": 0,
+      "imported": 0,
+      "source": null,
+      "budget_local": 17500000,
+      "budget_usd": 150000,
+      "location": {
+        "province": [],
+        "district": [],
+        "municipality": [],
+        "ward": []
+      },
+      "donor": [272],
+      "partner": [],
+      "output": []
+    },
+    {
+      "pid": 63,
+      "oid": 151,
+      "ptitle": "Covid-19 secondary impact resilience response in province 2, 5, and Karnali",
+      "pdurfrom": "2020-07-06",
+      "pdurto": "2021-06-30",
+      "approverOrgId": 53,
+      "createdon": "2021-04-01 10:33:35",
+      "createdby": 56,
+      "validation_status": 0,
+      "imported": 0,
+      "source": null,
+      "budget_local": 78800000,
+      "budget_usd": 673000,
+      "location": {
+        "province": [2],
+        "district": [34],
+        "municipality": [34011, 34012, 34011],
+        "ward": []
+      },
+      "donor": [10],
+      "partner": [795],
+      "output": [
+        {
+          "outputid": 98,
+          "pid": 63,
+          "output_description": "1: Immediate household need of the most deprived and vulnerable families met through CVA combined with technical assistance 2. 2: Sustainably improve municipal capacity to address the multi-dimensional needs of COVID-related and future shocks Ensure marginalised and vulnerable children, families and communities have safe access to critical information and necessary resources to protect themselves from COVID-19 and related shocks ",
+          "odurfrom": "2020-07-06",
+          "odurto": "2021-06-30",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [61]
+        }
+      ]
+    },
+    {
+      "pid": 64,
+      "oid": 177,
+      "ptitle": "Disaster Management Capacity Assessment (DMCA)",
+      "pdurfrom": "2020-05-27",
+      "pdurto": "2022-06-27",
+      "approverOrgId": 129,
+      "createdon": "2021-04-06 13:50:11",
+      "createdby": 60,
+      "validation_status": 0,
+      "imported": 0,
+      "source": null,
+      "budget_local": 2408450,
+      "budget_usd": 21504,
+      "location": {
+        "province": [],
+        "district": [],
+        "municipality": [],
+        "ward": []
+      },
+      "donor": [227],
+      "partner": [],
+      "output": [
+        {
+          "outputid": 89,
+          "pid": 64,
+          "output_description": "Humanitarian preparedness and response capacity of Tearfund partner organizations is strengthened.",
+          "odurfrom": "2020-05-27",
+          "odurto": "2022-06-27",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [199]
+        }
+      ]
+    },
+    {
+      "pid": 65,
+      "oid": 95,
+      "ptitle": "Monsoon Preparedness Program",
+      "pdurfrom": "2020-05-01",
+      "pdurto": "2020-09-30",
+      "approverOrgId": 95,
+      "createdon": "2021-04-07 15:40:49",
+      "createdby": 36,
+      "validation_status": 0,
+      "imported": 0,
+      "source": null,
+      "budget_local": 1024688,
+      "budget_usd": 8910,
+      "location": {
+        "province": [2, 2, 2, 2],
+        "district": [17, 17, 17, 17],
+        "municipality": [
+          17009, 17018, 32010, 32017, 48003, 49006, 49012, 56004, 59003, 71002,
+          71010, 72007, 17009, 17018, 32010, 32017, 48003, 49006, 49012, 56004,
+          59003, 71002, 71010, 72007, 17009, 17009, 17018, 32010, 32017, 48003,
+          49006, 49012, 56004, 59003, 71002, 71010, 72007, 17009, 17009, 17018,
+          32010, 32017, 48003, 49006, 49012, 56004, 59003, 71002, 71010, 72007,
+          17009, 17009, 17018, 32010, 32017, 48003, 49012, 49099, 56004, 59003,
+          71002, 71010, 72007
+        ],
+        "ward": []
+      },
+      "donor": [95],
+      "partner": [
+        203, 208, 791, 792, 793, 203, 208, 791, 792, 793, 203, 208, 791, 792,
+        793, 203, 208, 791, 792, 793, 203, 208, 791, 792, 793
+      ],
+      "output": [
+        {
+          "outputid": 92,
+          "pid": 65,
+          "output_description": "Communities, children, youths and adolescents know the symptoms and practice key behaviour to protect and better preparedness to cope/respond during flood emergency",
+          "odurfrom": "2020-05-01",
+          "odurto": "2020-09-30",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [270]
+        }
+      ]
+    },
+    {
+      "pid": 66,
+      "oid": 137,
+      "ptitle": "Youth Empowerment Bulgari Project (YEBP)",
+      "pdurfrom": "2016-01-01",
+      "pdurto": "2021-06-30",
+      "approverOrgId": 53,
+      "createdon": "2021-04-16 16:02:53",
+      "createdby": 63,
+      "validation_status": 0,
+      "imported": 0,
+      "source": null,
+      "budget_local": 345000,
+      "budget_usd": 2875,
+      "location": {
+        "province": [],
+        "district": [],
+        "municipality": [57007, 60007, 64009, 67001, 69009],
+        "ward": []
+      },
+      "donor": [796],
+      "partner": [797, 798, 799, 800, 801],
+      "output": [
+        {
+          "outputid": 99,
+          "pid": 66,
+          "output_description": "Schools will developed Child Centric Disaster Risk Reduction (CCDRR) plan for each school",
+          "odurfrom": "2016-01-01",
+          "odurto": "2021-06-30",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [50]
+        }
+      ]
+    },
+    {
+      "pid": 67,
+      "oid": 137,
+      "ptitle": "SAHAYATRA II",
+      "pdurfrom": "2019-01-01",
+      "pdurto": "2023-12-31",
+      "approverOrgId": 53,
+      "createdon": "2021-04-16 16:21:20",
+      "createdby": 63,
+      "validation_status": 0,
+      "imported": 0,
+      "source": null,
+      "budget_local": 75800,
+      "budget_usd": 632,
+      "location": {
+        "province": [6],
+        "district": [61],
+        "municipality": [
+          60007, 61003, 61005, 64001, 64009, 64001, 60007, 61003, 61005, 64001,
+          64009, 60007, 61003, 61005, 64001, 64009, 60007, 61003, 61005, 64001,
+          64009, 60007, 61003, 61005, 64001, 64009, 60007, 61003, 61005, 64001,
+          64009, 60007, 61003, 61005, 64001, 64009, 60007, 61003, 61005, 64001,
+          64009, 60007, 61003, 61005, 64001, 64009, 60007, 61003, 61005, 64001,
+          64009, 60007, 61003, 61005, 64001, 64009, 60007, 61003, 61005, 64001,
+          64009, 60007, 61003, 61005, 64001, 64009, 60007, 61003, 61005, 64001,
+          64009, 60007, 61003, 61005, 64001, 64009, 60007, 61003, 61005, 64001,
+          64009
+        ],
+        "ward": []
+      },
+      "donor": [802],
+      "partner": [
+        835, 836, 837, 838, 835, 836, 837, 838, 85, 835, 837, 838, 835, 836,
+        837, 838, 835, 836, 837, 838, 835, 836, 837, 838, 835, 836, 837, 838,
+        835, 836, 837, 838, 835, 836, 837, 838, 835, 836, 837, 838, 835, 836,
+        837, 838, 835, 836, 837, 838, 835, 836, 837, 838, 835, 836, 837, 838,
+        835, 836, 837, 838, 835, 836, 837, 838
+      ],
+      "output": [
+        {
+          "outputid": 100,
+          "pid": 67,
+          "output_description": "ECCD and school structures (classroom, toilets and drinking water facility) constructed/ renovated",
+          "odurfrom": "2019-01-01",
+          "odurto": "2023-12-31",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [144]
+        },
+        {
+          "outputid": 101,
+          "pid": 67,
+          "output_description": "Safe school minimum package developed by MoEST that includes DRR, SZOP and protection is adapted and practiced in Save the Children supported schools",
+          "odurfrom": "2019-01-01",
+          "odurto": "2023-12-31",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [66]
+        },
+        {
+          "outputid": 102,
+          "pid": 67,
+          "output_description": " State, local governments staff,  and teachers trained/ oriented/ facilitated to develop safe school policies/ procedures",
+          "odurfrom": "2019-01-01",
+          "odurto": "2023-12-31",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [69]
+        }
+      ]
+    },
+    {
+      "pid": 68,
+      "oid": 137,
+      "ptitle": "KIRAN",
+      "pdurfrom": "2021-02-01",
+      "pdurto": "2024-01-31",
+      "approverOrgId": 53,
+      "createdon": "2021-04-16 16:24:15",
+      "createdby": 63,
+      "validation_status": 0,
+      "imported": 0,
+      "source": null,
+      "budget_local": 862000,
+      "budget_usd": 7183,
+      "location": {
+        "province": [],
+        "district": [],
+        "municipality": [
+          60004, 60004, 60004, 60004, 60004, 60004, 60004, 60004, 60004, 60004
+        ],
+        "ward": []
+      },
+      "donor": [803],
+      "partner": [839, 839, 839, 839, 839, 839, 839, 839, 839, 839],
+      "output": [
+        {
+          "outputid": 103,
+          "pid": 68,
+          "output_description": "Local government's capacity on planning and information management in relation to education, protection, poverty reduction, disaster and climate risks enhanced.",
+          "odurfrom": "2021-02-01",
+          "odurto": "2024-01-01",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [48]
+        },
+        {
+          "outputid": 104,
+          "pid": 68,
+          "output_description": "Women, youths and child club members are engaged in empowerment sessions on disaster and climate risks and environment protection ",
+          "odurfrom": "2021-02-01",
+          "odurto": "2024-01-01",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [122]
+        }
+      ]
+    },
+    {
+      "pid": 69,
+      "oid": 137,
+      "ptitle": "Seismic Design for resilient schools in Nepal ",
+      "pdurfrom": "2018-01-01",
+      "pdurto": "2020-10-31",
+      "approverOrgId": 53,
+      "createdon": "2021-04-19 15:47:40",
+      "createdby": 63,
+      "validation_status": 0,
+      "imported": 0,
+      "source": null,
+      "budget_local": 15253454,
+      "budget_usd": 158747,
+      "location": {
+        "province": [2, 3, 5, 6, 2, 3, 5, 6],
+        "district": [],
+        "municipality": [],
+        "ward": []
+      },
+      "donor": [840],
+      "partner": [841, 841],
+      "output": [
+        {
+          "outputid": 105,
+          "pid": 69,
+          "output_description": "Engineering research for sustainable infrastructure and disaster resilience",
+          "odurfrom": "2018-01-01",
+          "odurto": "2020-10-31",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [6]
+        }
+      ]
+    },
+    {
+      "pid": 70,
+      "oid": 28,
+      "ptitle": "Enhancing CSOs roles as key development partners for climate resilient policies and practices in province 2",
+      "pdurfrom": "2020-02-03",
+      "pdurto": "2023-02-02",
+      "approverOrgId": 183,
+      "createdon": "2021-05-03 12:56:48",
+      "createdby": 15,
+      "validation_status": 0,
+      "imported": 0,
+      "source": null,
+      "budget_local": 25744176,
+      "budget_usd": 220035,
+      "location": {
+        "province": [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2],
+        "district": [
+          16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 32
+        ],
+        "municipality": [
+          15009, 15018, 32002, 32003, 15009, 15009, 15018, 32002, 32003, 15009,
+          15018, 32002, 32003, 15009, 15009, 15018, 32002, 32003, 15009, 15009,
+          15018, 32002, 32003, 15009, 15009, 15018, 32002, 32003, 15009, 15009,
+          15018, 32002, 32003, 15018, 15009, 15018, 32002, 32003, 15009, 15009,
+          15018, 32002, 32003, 15018, 15009, 15018, 32002, 32003, 15009, 15009,
+          15018, 32002, 32003, 15009, 15009, 15018, 32002, 32003, 15009, 15009,
+          15018, 32002, 32003, 15009, 15009, 15018, 32002, 32003, 15009, 15009,
+          15018, 32002, 32003, 15018, 15009, 15018, 32002, 32003, 32003
+        ],
+        "ward": []
+      },
+      "donor": [9, 28],
+      "partner": [
+        850, 851, 850, 851, 852, 852, 258, 850, 258, 850, 852, 258, 850, 258,
+        850, 258, 850, 852, 852, 852, 258, 850, 852, 258, 850, 258, 850, 852,
+        258, 850, 258, 850, 852
+      ],
+      "output": [
+        {
+          "outputid": 106,
+          "pid": 70,
+          "output_description": "Improved awareness and shared knowledge by CSOs, local governments, elected representatives, target groups on climate and DDR policy frameworks, risk understanding, and climate change impacts on vulnerable target groups (upstream/downstream).",
+          "odurfrom": "2020-02-03",
+          "odurto": "2023-02-02",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [122]
+        },
+        {
+          "outputid": 107,
+          "pid": 70,
+          "output_description": "Activate local networks and strengthen productive collaboration through a functional and inclusive multi-stakeholder platform for decision-making, climate financing, resource collaboration, resource allocation, influencing, accountability and learning.",
+          "odurfrom": "2020-02-03",
+          "odurto": "2023-02-02",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [123]
+        },
+        {
+          "outputid": 108,
+          "pid": 70,
+          "output_description": "Strengthened capacity of CSOs/CBOs in technical knowledge and skills, fund-raising and influencing through orientation, regular engagement and policy dialogue with authorities to participate in, contribute and implement plans to meet needs of target groups through multi-stakeholders’ engagement",
+          "odurfrom": "2020-02-03",
+          "odurto": "2023-02-02",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [237]
+        }
+      ]
+    },
+    {
+      "pid": 71,
+      "oid": 28,
+      "ptitle": "Strengthening Community Preparedness, Rapid Response and Recovery (SCOPR3) ",
+      "pdurfrom": "2020-10-01",
+      "pdurto": "2023-12-31",
+      "approverOrgId": 28,
+      "createdon": "2021-05-05 15:00:59",
+      "createdby": 15,
+      "validation_status": 0,
+      "imported": 0,
+      "source": null,
+      "budget_local": 32235190,
+      "budget_usd": 280306,
+      "location": {
+        "province": [7, 7, 7, 7, 7, 7, 7, 7, 7],
+        "district": [75, 74, 75, 75, 75, 75, 75, 75, 75],
+        "municipality": [
+          72003, 72004, 72007, 73007, 72003, 72003, 72004, 72007, 73007, 73007,
+          72003, 72004, 72007, 73007, 72003, 72004, 72007, 73007, 72003, 72004,
+          72007, 73007, 72003, 72004, 72007, 73007, 72003, 72003, 72004, 72007,
+          73007, 72003, 72004, 72007, 73007, 72003, 72003, 72004, 72007, 73007,
+          72003, 72003, 72004, 72007, 73007, 72003, 72003, 72007, 73007, 72003,
+          72003, 72004, 72007, 73007, 72003, 72003, 72004, 72007, 73007, 72003
+        ],
+        "ward": []
+      },
+      "donor": [149],
+      "partner": [
+        853, 854, 853, 854, 854, 854, 854, 854, 854, 854, 854, 854, 854, 854
+      ],
+      "output": [
+        {
+          "outputid": 109,
+          "pid": 71,
+          "output_description": "Output 1: By the end of the project 40 communities are knowledgeable of local hazards, vulnerabilities and risks, and have developed and used disaster risk reduction and management plans.",
+          "odurfrom": "2020-10-01",
+          "odurto": "2023-12-31",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [230]
+        },
+        {
+          "outputid": 111,
+          "pid": 71,
+          "output_description": "Output 2: Up to 200 local authorities, 30 local organizations 420 humanitarian actors, and 40 communities in Nepal have strengthened their technical capacity to prepare and respond to small scale disasters. ",
+          "odurfrom": "2020-01-10",
+          "odurto": "2023-12-31",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [122]
+        },
+        {
+          "outputid": 112,
+          "pid": 71,
+          "output_description": "Output 3: Up to 40 communities in Nepal, increase their connectivity with local and national authorities, civil society, and private sectors and actively engage in planning and managing humanitarian responses",
+          "odurfrom": "2020-10-10",
+          "odurto": "2023-12-31",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [47]
+        },
+        {
+          "outputid": 113,
+          "pid": 71,
+          "output_description": "Output 4: In partnership with women and youth organizations and private sector actors, local structures and systems are established and/or strengthened to enable local actors to respond to humanitarian crises in a timely and adequate manner.",
+          "odurfrom": "2020-10-01",
+          "odurto": "2023-12-31",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [74]
+        },
+        {
+          "outputid": 114,
+          "pid": 71,
+          "output_description": "Output 5: Vulnerable household in 40 communities have access to the skills and resources necessary to stabilize and/or strengthen their household economy/income with support from private and public sectors before and after disasters. ",
+          "odurfrom": "2020-10-01",
+          "odurto": "2023-12-31",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [190]
+        },
+        {
+          "outputid": 115,
+          "pid": 71,
+          "output_description": "Output 6: Four Local governments units in Nepal have social protection Cash and Voucher Assistance (CVA) and market-based response mechanism in place for food security and livelihood restoration when disaster hits. ",
+          "odurfrom": "2020-10-01",
+          "odurto": "2023-12-31",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [137]
+        },
+        {
+          "outputid": 116,
+          "pid": 71,
+          "output_description": "Output 7: Up to 40 communities have livelihood risk mitigation and investment plans in place in Nepal",
+          "odurfrom": "2020-10-01",
+          "odurto": "2023-12-23",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [175]
+        },
+        {
+          "outputid": 117,
+          "pid": 71,
+          "output_description": "Output 8: Project learning contributes to improved community based DRR, response and recovery at practice and policy level in Nepal as well as with other countries and region. ",
+          "odurfrom": "2020-10-01",
+          "odurto": "2023-12-31",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [48]
+        }
+      ]
+    },
+    {
+      "pid": 72,
+      "oid": 845,
+      "ptitle": "Pratibaddha - Risk-Informed Landslide Management in Nepal’s Hill Areas",
+      "pdurfrom": "2020-06-01",
+      "pdurto": "2021-11-30",
+      "approverOrgId": 129,
+      "createdon": "2021-06-03 15:11:56",
+      "createdby": 73,
+      "validation_status": 0,
+      "imported": 0,
+      "source": null,
+      "budget_local": 20859357,
+      "budget_usd": 178929,
+      "location": {
+        "province": [],
+        "district": [],
+        "municipality": [],
+        "ward": []
+      },
+      "donor": [19],
+      "partner": [],
+      "output": [
+        {
+          "outputid": 118,
+          "pid": 72,
+          "output_description": "Local disaster risk management in Nepal's highly-exposed rural hill areas strengthened through participatory risk-informed landslide management",
+          "odurfrom": "2020-06-01",
+          "odurto": "2021-11-30",
+          "location": {
+            "province": [],
+            "district": [],
+            "municipality": [],
+            "ward": []
+          },
+          "ndrrsap": [61]
+        }
+      ]
+    }
+  ]
+}
